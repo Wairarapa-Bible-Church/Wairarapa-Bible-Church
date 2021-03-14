@@ -22,7 +22,7 @@ title: Wairarapa Bible Church
 email: schenwood@live.com
 description: >- # this means to ignore newlines until "baseurl:"
   Wiararapa Bible Church are a people which beleive in the Bible as the inerrent word of God.
-baseurl: "" # the subpath of your site, e.g. /blog
+baseurl: "/Wairarapa-Bible-Church" # the subpath of your site, e.g. /blog
 url: "" # the base hostname & protocol for your site, e.g. http://example.com
 twitter_username: jekyllrb
 github_username:  jekyll
