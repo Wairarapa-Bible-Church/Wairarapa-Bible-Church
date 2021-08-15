@@ -4,12 +4,26 @@
 
 layout: home
 ---
-Welcome to Wairarapa Bible Church's Website.
+*John 17:17 Sancitify them in the truth; Your Word is Truth*
 
-We meet every Sunday 10am located 265 High Street South, Carterton 5713
+# Sunday Worship 10am
+- Praise, Prayer, Communion, Bible Teaching
+- Sunday School 3 - 12 Years (during teaching)
 
-We have an afternoon service and shared dinner on the 3rd Sunday of the month.
+## A Family Bible Church that exists to:
+- Glorify God
+- Promote the Authority & Sufficiency of God's Bible
+- Loving people and making disciples of Jesus
 
-## John 1:1 - 5
-In the beginning was the Word, and the Word was with God, and the Word was God. He was in the beginning with God. All things were made through him, and without him was not any thing made that was made. In him was life, and the life was the light of men. The light shines in the darkness, and the darkness has not overcome it.
+## Find us in Carterton
 
+265 High Street South  
+Carterton
+
+## Contact
+
+Donald on 021 238 7655
+
+PO Box 181  
+265 High Street South  
+Carterton 5713
