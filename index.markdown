@@ -4,7 +4,7 @@
 
 layout: home
 ---
-*John 17:17 Sancitify them in the truth; Your Word is Truth*
+*John 17:17 Sanctify them in the truth; Your Word is Truth*
 
 # Sunday Worship 10am
 - Praise, Prayer, Communion, Bible Teaching
